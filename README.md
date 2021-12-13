@@ -15,7 +15,7 @@ Analyze, Clean and Visualize over ten thousands google playstore apps and more t
 
 ## Exploratory Data Analysis
 Below are few highlights from Data Visualization
-- 1
+![alt text](https://github.com/farrel1grady/android-app-market-analysis/blob/main/Apps_categories.JPG?raw=true "Logo Title Text 1")
 - 2
 - 3
 - 4
