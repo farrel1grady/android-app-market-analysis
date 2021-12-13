@@ -3,6 +3,7 @@
 -- Project Status : [Completed]
 
 Python Version : 3.7
+
 Packages : pandas, plotly, seaborn, matplotlib
 
 ## Project Description
@@ -15,10 +16,13 @@ Analyze, Clean and Visualize over ten thousands google playstore apps and more t
 
 ## Exploratory Data Analysis
 Below are few highlights from Data Visualization
-![alt text](https://github.com/farrel1grady/android-app-market-analysis/blob/main/Apps_categories.JPG?raw=true "Logo Title Text 1")
-- 2
-- 3
-- 4
+![Apps Categories](https://github.com/farrel1grady/android-app-market-analysis/blob/main/Apps_categories.JPG?raw=true "Apps Categories")
+
+![Size vs Rating](https://github.com/farrel1grady/android-app-market-analysis/blob/main/Size%20vs%20Rating.JPG?raw=true "Size vs Rating")
+
+![Pricing Trend](https://github.com/farrel1grady/android-app-market-analysis/blob/main/Pricing%20trend.JPG?raw=true "Pricing Trend")
+
+![Sentiment Polarity](https://github.com/farrel1grady/android-app-market-analysis/blob/main/Sentiment%20Polarity.JPG?raw=true "Sentiment Polarity")
 
 ## Insights gained 
 1. Top 3 highest share of active apps are Family, Game and Tools.
