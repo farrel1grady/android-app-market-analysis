@@ -6,7 +6,7 @@ Python Version : 3.7
 Packages : pandas, plotly, seaborn, matplotlib
 
 ## Project Description
-Analyze, Clean and Visualize over ten thousands google playstore apps and more than sixty thousands reviews to gain insight in the data to devise plan when creating an app.
+Analyze, Clean and Visualize over ten thousands google playstore apps and more than sixty thousands reviews to gain insight from the data to devise plan when creating an app.
 
 ## Data Cleaning
 - remove duplicates apps
